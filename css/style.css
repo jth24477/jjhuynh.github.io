@@ -12,6 +12,7 @@ body {
 /* Nav Styles */
 nav {
     display:flex;
+    flex-direction:row;
     justify-content: space-evenly;
     padding: 0 0 0 0;
     background-color: #738290;
